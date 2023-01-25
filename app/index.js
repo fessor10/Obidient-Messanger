@@ -277,7 +277,7 @@ export default function Page() {
 const messages = [
   `Under APC and PDP leadership, schools have been closing irregularly, homelessness is on the rise and cost of living have skyrocketed, businesses are closing and we still do not have constant power supply. It's time for a change.
  
-Vote and Support Labour party (LP) and the Obi-Datti Movement, let's give nigeria another chance.`,
+Vote and support Labour party (LP) and the Obi-Datti Movement, let's give nigeria another chance.`,
   "Join the movement for real change. Vote for Peter Obi of Labor Party (LP) for President and Datti Baba-Ahmed as Vice President. Together, they have a clear and actionable plan to address the issues that matter most to us. Together, we can create a better future for all.",
   "Don't miss out on the opportunity to elect a leader who truly cares about our future. Vote for Peter Obi of Labor Party (LP) for President and Datti Baba-Ahmed as Vice President. Together they have the experience, the vision, and the courage to bring about the change we need.",
   "Tired of the same old political rhetoric? Vote for Peter Obi of Labor Party (LP) for President and Datti Baba-Ahmed as Vice President. They offers a new way of doing politics, based on transparency, accountability, and collaboration. With them as our leaders, we will be able to tackle the challenges of our time and build a brighter future.",
